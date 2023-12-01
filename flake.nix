@@ -3,7 +3,7 @@
 
   outputs = _: {
     nixosModules = {
-      valheim = import ./modules/module-list.nix;
+      valheim = import ./modules/valheim.nix;
     };
   };
 }

@@ -1,3 +1,0 @@
-[
-  ./valheim.nix
-]
