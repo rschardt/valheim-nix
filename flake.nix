@@ -1,5 +1,5 @@
 {
-  description = "nixos-hardware";
+  description = "Valheim dedicated server";
 
   outputs = _: {
     nixosModules = {
